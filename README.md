@@ -1,1 +1,1 @@
-# susan um site encubadora do bot susan
+# susan um site encubadora de um bot
